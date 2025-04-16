@@ -53,7 +53,7 @@ h2,h3 {
 }
 
 ul{
-    color: rgba(218, 96, 255, 0.7);
+    color: #ff6600;
     font-size: medium;
 }
 
@@ -168,5 +168,5 @@ a:hover {
   }
 
   p{
-    color: rgba(218, 96, 255, 0.7);
+    color: #ff6600;
   }
